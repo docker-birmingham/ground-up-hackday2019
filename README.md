@@ -21,7 +21,7 @@ stack!
 
 #### CockroachDB 
 
-You'll need to orchestrate either a single CockroachDB node or if you're feeling adventurous, a clsuter!  There are some
+You'll need to orchestrate either a single CockroachDB node or if you're feeling adventurous, a cluster!  There are some
 instructions which can be followed on the CockroachDB site [here](https://www.cockroachlabs.com/docs/stable/start-a-local-cluster-in-docker.html).
 
 The best approach for this is to create a docker-compose file which will orchestrate the service.  Mapping the
